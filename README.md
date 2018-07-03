@@ -12,7 +12,7 @@ which was used by the Ethereum development team.
 First is will its Efficient Distributed Sharding (EDS) technology, a scalability solution that securely dynamically partitions
 the blockchain. As a result of EDS, zentachain will it to achieve greater than 100,000 transactions per second.
 
-##What is a smart contract?
+## What is a smart contract?
 
 A smart contract is a specific software written into a blockchain network. 
 A node or computer can  execute a contract in order to carry out a action or a set of actions. This leads to a permanent update or change on the block chain ledger. 
