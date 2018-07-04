@@ -3,8 +3,7 @@
 ZentaChain technology allows distributed retention of encrypted data and is at the heart of cooperative Zenta Cloud storage.
 Zentachain is a high-throughput blockchain platform designed to scale to thousands of transactions per second.(TPS)
 It is a blockchain platform that can support dapps and process thousands of transactions per second.
-This high transaction throughput relies on a scalability solution called sharding,
-which was used by the Ethereum development team.
+This high transaction throughput relies on a scalability solution called sharding.
 First is will its Efficient Sharding technology, a scalability solution that securely dynamically partitions
 the blockchain. As a result of, zentachain will it to achieve greater than 100,000 transactions per second.
 
