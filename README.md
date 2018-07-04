@@ -14,11 +14,12 @@ the blockchain. As a result of EDS, zentachain will it to achieve greater than 1
 
 ## What is a smart contract?
 
-A smart contract is a specific software written into a blockchain network. 
-A node or computer can  execute a contract in order to carry out a action or a set of actions. This leads to a permanent update or change on the block chain ledger. 
+What is a smart contract?
+
+A smart contract is a specific software written into a blockchain network. A node or computer can then execute a contract in order to carry out an action or a set of actions. This leads to a permanent update or change on the block chain ledger. 
 
 One of the best aspects of a smart contract on the block chain is that it becomes immutable. Meaning it can never be changed or altered, it becomes resolute law. This makes it impossible to ever be tampered with. This, in turn, leads to a secure and consistent system or application. 
 
-The main purpose of a smart contract is automation. Tasks and commands are being carried out seamlessly with speed, precision and consistency.  This leads to the possibility of decentralized applications and network systems. 
+The main purpose of a smart contract is automation. Tasks and commands are being carried out seamlessly with speed, precision and consistency.  This lead to the possibility of decentralized applications and network systems. 
 
 Smart contracts don’t rely on a third party to keep the application or network secure and efficient. The contracts are coded by us to carry out tasks that are important to the success of our project.
