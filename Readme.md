@@ -24,12 +24,18 @@ While distributed memory shows some of the key features of the blockchain, we al
 As blockchain was flooded with transactions, they too had to look for solutions to the problem of scalability.
 The concept of storing large amounts of data on the blockchain is simply not plausible.
 
-## The Solution of ZentaChain: Sarding & Swarm
+## What is sharding how will it work on ZentaChain?
 
-## What is SHARDING?
+The Solution of ZentaChain: Sarding & Swarm
 
+Compared to Bitcoin, which consists of one block that takes 10 minutes to be verified and processed. ZENTACHAIN ​​is designed in such a way that the block needs about two minutes per confirmation. ZENTACHAIN ​​is much faster! Another issue  with Bitcoin is that virtually all miners work on one block at the same time, ZENTACHAIN ​​believes that the work is, so to speak, subordinate and much more divided. When you divide its core into much smaller departments (blocks), you then have the possibility to process many more transactions simultaneously.
 
+For example: take 100 people, who each work in groups of ten. Each group of the ten works on their own project (ie. transactions) or their own task within the blockchain. In the end all results are compiled and placed on the main block (ZENTACHAIN), in this case is number 1, as You can see here in this diagram ZentaChain  in green . The sharded  ZentaChain block takes 2 minutes per block vs the whole bitcoin block which takes 10 minutes to complete each confirmation 
 
+ZENTACHAIN has several advantages over other blockchains:
+1.) The confirmation does not take as long as other blockchains ie. Bitcoin
+2) if a transaction utilizes the micro blocks, you'll get a confirmation in seconds. The micro blocks are more efficient because the work is divided. The More blocks you have the faster and greater the transaction process becomes.  
+3.) This leads to a significantly greater scalability
 
 ## What is SWARM?
 
