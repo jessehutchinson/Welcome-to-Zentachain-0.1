@@ -1,4 +1,6 @@
-# Welcome ZentaChain
+![zentapng](https://user-images.githubusercontent.com/40530024/42548921-d9125f4a-84c9-11e8-968a-5070cd3ecf3b.png)
+
+# Welcome to ZentaChain
 
 ZentaChain technology allows distributed retention of encrypted data and is at the heart of cooperative Zenta Cloud storage.
 Zentachain is a high-throughput blockchain platform designed to scale to thousands of transactions per second.(TPS)
@@ -12,13 +14,13 @@ the blockchain. As a result of, zentachain will it to achieve greater than 100,0
 
 Distributed memory combines the best features of blockchain technology with attributes that meet the practical requirements of storing large amounts of data. As the name indicates, remote storage works by distributing the data across a network of ZentaChain nodes, similar to the distributed ledger of blockchain technology.
 
-## Why you should not trust a Cloud...
+## Why you should not trust a Cloud.
 
 Currently, individual systems and even cloud-based databases are highly centralized.  This makes it a lighthouse for hackers who want to attack. You also have obvious sources of system errors if a controlling company should be affected, for example, as a result of a power failure.
 In contrast, distributed storage does address these issues by using geographically distributed ZentaChain nodes either regionally or globally.
 
 
-## The problem with blockchain...
+## The problem with Blockchain.
 
 While distributed memory shows some of the key features of the blockchain, we also need to think about how to store data "on the blockchain".
 As blockchain was flooded with transactions, they too had to look for solutions to the problem of scalability.
@@ -37,7 +39,7 @@ ZENTACHAIN has several advantages over other blockchains:
 2) if a transaction utilizes the micro blocks, you'll get a confirmation in seconds. The micro blocks are more efficient because the work is divided. The More blocks you have the faster and greater the transaction process becomes.  
 3.) This leads to a significantly greater scalability
 
-## What is SWARM?
+## What is Swarm?
 
 Swarm is a distributed storage platform and content distribution service, a native base layer service of the web3 stack.
 The primary objective of swarm is to provide sufficiently decentralized and redundant storage of ZentaChain's public information.
