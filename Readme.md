@@ -1,6 +1,7 @@
-![zentapng](https://user-images.githubusercontent.com/40530024/42548921-d9125f4a-84c9-11e8-968a-5070cd3ecf3b.png)
+![headergit](https://user-images.githubusercontent.com/40530024/42738628-19da1bc4-8887-11e8-8593-f1f2b058c07e.png)
 
-# Welcome to ZentaChain
+
+## Welcome to ZentaChain
 
 ZentaChain technology allows distributed retention of encrypted data and is at the heart of cooperative Zenta Cloud storage.
 Zentachain is a high-throughput blockchain platform designed to scale to thousands of transactions per second.(TPS)
@@ -8,7 +9,6 @@ It is a blockchain platform that can support dapps and process thousands of tran
 This high transaction throughput relies on a scalability solution called sharding.
 First is will its Efficient Sharding technology, a scalability solution that securely dynamically partitions
 the blockchain. As a result of, zentachain will it to achieve greater than 100,000 transactions per second.
-
 
 #### How does the Decentralized Memory work with ZentaChain ?
 
@@ -26,56 +26,62 @@ While distributed memory shows some of the key features of the blockchain, we al
 As blockchain was flooded with transactions, they too had to look for solutions to the problem of scalability.
 The concept of storing large amounts of data on the blockchain is simply not plausible.
 
-#### What is sharding how will it work on ZentaChain?
+### The Solution of ZentaChain Sarding & IFPS:
 
-#### The Solution of ZentaChain
-
-##### Sarding:
+What is sharding how will it work on ZentaChain?
 
 Sharding by splitting up every block into a number of shards,each node in a network can process its own shard which later on will be  compiled back into the final zentachain-block.
 In that way every zentachain-block takes around 2 minutes to be completely  processed. 
 
-Compared to Bitcoin, which consists of one block that takes 10 minutes to be verified and processed. ZENTACHAIN ​​is designed in such a way that the block needs about two minutes per confirmation. ZENTACHAIN ​​is much faster! Another issue  with Bitcoin is that virtually all miners work on one block at the same time, ZENTACHAIN ​​believes that the work is, so to speak, subordinate and much more divided. When you divide its core into much smaller departments (blocks), you then have the possibility to process many more transactions simultaneously.
+Compared to Bitcoin, which consists of one block that takes 10 minutes to be verified and processed. zentachain is designed in such a way that the block needs about two minutes per confirmation. zentachain is much faster! Another issue  with Bitcoin is that virtually all miners work on one block at the same time, zentachain believes that the work is, so to speak, subordinate and much more divided. When you divide its core into much smaller departments (blocks), you then have the possibility to process many more transactions simultaneously.
 
-For example: take 100 people, who each work in groups of ten. Each group of the ten works on their own project (ie. transactions) or their own task within the blockchain. In the end all results are compiled and placed on the main block (ZENTACHAIN), in this case is number 1, as You can see here in this diagram ZentaChain  in green . The sharded  ZentaChain block takes 2 minutes per block vs the whole bitcoin block which takes 10 minutes to complete each confirmation 
+For example: take 100 people, who each work in groups of ten. Each group of the ten works on their own project (ie. transactions) or their own task within the blockchain. In the end all results are compiled and placed on the main block (zentachain), in this case is number 1, as You can see here in this diagram ZentaChain  in green.(https://zentachain.io) The sharded  ZentaChain block takes 2 minutes per block vs the whole bitcoin block which takes 10 minutes to complete each confirmation 
 
-ZENTACHAIN has several advantages over other blockchains:
-1.) The confirmation does not take as long as other blockchains ie. Bitcoin
-2) if a transaction utilizes the micro blocks, you'll get a confirmation in seconds. The micro blocks are more efficient because the work is divided. The More blocks you have the faster and greater the transaction process becomes.  
-3.) This leads to a significantly greater scalability
+ZentaChain has several advantages over other blockchains:
+The confirmation does not take as long as other blockchains ie. Bitcoin
+if a transaction utilizes the micro blocks, you'll get a confirmation in seconds. The micro blocks are more efficient because the work is divided. The More blocks you have the faster and greater the transaction process becomes.  
+This leads to a significantly greater scalability
 
-##### What is Swarm?
+##### What is IFPS?
 
-Swarm is a distributed storage platform and content distribution service, a native base layer service of the web3 stack.
-The primary objective of swarm is to provide sufficiently decentralized and redundant storage of ZentaChain's public information.
-In particular, to store and distribute dapp code and data as well as blockchain data.
-Economically, it allows participants to efficiently pool their storage and bandwidth resources.
-To provide these services to all participants in the network.
+IPFS stands for InterPlanetary File Sharing and is a type of protocol used for distributed file sharing, comparable to that of the Wold Wide Web. IPFS is known as the permanent web. According to GitHub, IPFS is defined as:  A peer-to-peer hypermedia protocol to make the web faster, safer, and more open. IPFS is similar to Tor’s open source where anyone can contribute to the projects development code. 
 
+What is the problem with the World Wide Web?
+     
+For example, companies such  as Wikipedia or Dropbox, rely on centralized servers where users worldwide must retrieve their content from these lone servers. 
 
-Two key technologies help to solve these problems. 
-The first of these is sharding, where databases are partitioned by logical lines.
-In a distributed storage model, these shards are stored together and retrieved by a remote application with a unique partition key.
+The problem with this, is that a centralized server has the potential to become overloaded and crash due to its inability to support such a high volume of data requests. Other problems that may arise, for example, Wikipedia stops providing the sought after content, decides to change it, or if a government blocks access to the main servers altogether. These are just a few problems with the centralized web of today. 
 
-The collective storage of shards is achieved through the second complementary technology known as swarm.
-Just as blockchain uses a network of nodes, the distributed storage uses large groups of nodes - the so-called "swarm" to store and manage data.
+How is IPFS different from the World Wide Web?
 
-The swarm effect reduces latency and increases speed by retrieving data in parallel from the next and fastest nodes, much like torrents.
-Because there are many geographically dispersed nodes in a swarm, their reliability and scalability increase.
+When using IPFS, all content data uploaded via the protocol becomes highly standardized and immutable, meaning it can’t be changed, altered or otherwise corrupted.  
 
-Most significant to current data storage providers, the devices in the nodes and swarms are not owned by a single company.
-They are owned and controlled by individuals without any regulatory authority or a company that keeps their data.
+IPFS doesn’t rely on centralized servers at all and is able to transform regular computing devices into distributed network servers. This gives individual devices the ability to send, store, and receive any data, becoming a completely autonomous server.  
 
-From the end user's point of view, swarm does not differ significantly from the World Wide Web, except that uploads are not hosted on a particular server.
-Swarm provides a peer-to-peer storage and server solution that is DDoS-resistant, has no downtime, is fault-tolerant and censorship-resistant, and carries itself.
-Thanks to an integrated incentive system that uses peer-to-peer solutions.
+IPFS gives the distributed server networks the ability to cross communicate, allowing the user to retrieve the sought after data from the closest server, making it far more efficient then the World Wide Web.
+
+##### Why ZentaChain will integrate IPFS protocol?
+   
+ZentaChain will utilize IPFS distributed protocol to securely send, store, and retrieve its data.  
+IPFS enables the creation of distributed apps and services. 
+
+The most important aspect of IPFS is it’s ability to be censorship resistant due to the same data being distributed by different servers all over the world. 
+This makes it impossible to block or censor all seed servers.
+A sever that isn’t blocked would simply pick up the request and send the data. 
+
+ZentaChain’s services will become completely secure, tamperproof and censorship resistant with the integration of IPFS distributed protocol.
 
 ##### Zenta2p2
-Zenta2P2’ is decentralized messenger with p2p  blockchain & IPFS .
+Zenta2P2’ is decentralized anonymous messenger with p2p  blockchain & IPFS .
 ZentaChain is a secure, decentralized messenger with an integrated payment system.
 ZentaChain can not be disabled or blocked because it does not have centralized servers
 and all information is encrypted in a distributed data store (IPFS).
 
-##### what is our vision
+##### ZentaCloud
+ZentaChain is offering a new highly encrypted and secure blockchain cloud for your personal data storage. Unlike normal cloud services, we do not have a centralized server. Nobody can attack and access our server directly. Unlike regular cloud services even the ZentaChain team does not have access to your personal data.
+
+##### What is our vision
 Zentachain vision is 
 people who don’t trust one another—share valuable data in a secure, tamperproof way. That’s because zentachains store data using sophisticated math and innovative software rules that are extremely difficult for attackers to manipulate.
+
+![footergithub](https://user-images.githubusercontent.com/40530024/42738605-bbc77e64-8886-11e8-9267-7022335ef438.png)
