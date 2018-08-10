@@ -1,4 +1,3 @@
-![headergit](https://user-images.githubusercontent.com/40530024/42738628-19da1bc4-8887-11e8-8593-f1f2b058c07e.png)
 
 
 ## Welcome to ZentaChain
@@ -84,4 +83,4 @@ ZentaChain is offering a new highly encrypted and secure blockchain cloud for yo
 Zentachain vision is 
 people who don’t trust one another—share valuable data in a secure, tamperproof way. That’s because zentachains store data using sophisticated math and innovative software rules that are extremely difficult for attackers to manipulate.
 
-![footergithub](https://user-images.githubusercontent.com/40530024/42738605-bbc77e64-8886-11e8-9267-7022335ef438.png)
+
