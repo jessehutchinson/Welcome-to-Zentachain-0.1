@@ -75,6 +75,12 @@ Zenta2P2’ is decentralized anonymous messenger with p2p  blockchain & IPFS .
 ZentaChain is a secure, decentralized messenger with an integrated payment system.
 ZentaChain can not be disabled or blocked because it does not have centralized servers
 and all information is encrypted in a distributed data store (IPFS).
+ZentaP2P is a highly encrypted Peer-to-Peer messenger service, hosted on the ZentaChain network.
+ZentaP2P will utilize Mesh Networking to insure secure and encrypted communication.
+
+
+![zentap2p network](https://user-images.githubusercontent.com/40530024/44751312-2568f380-ab18-11e8-8d46-bb68c606384c.png)
+
 
 ##### ZentaCloud
 ZentaChain is offering a new highly encrypted and secure blockchain cloud for your personal data storage. Unlike normal cloud services, we do not have a centralized server. Nobody can attack and access our server directly. Unlike regular cloud services even the ZentaChain team does not have access to your personal data.
