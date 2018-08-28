@@ -77,7 +77,24 @@ ZentaChain can not be disabled or blocked because it does not have centralized s
 and all information is encrypted in a distributed data store (IPFS).
 ZentaP2P is a highly encrypted Peer-to-Peer messenger service, hosted on the ZentaChain network.
 ZentaP2P will utilize Mesh Networking to insure secure and encrypted communication.
+ZentaP2P will execute first class encryption while sending and receiving messages.
+Only the sender and recipient can view private messages.
+Our team guarantees the integrity of your privacy through the integration of Mesh Networking technology.
+Mesh Network, also known as MeshNet, is an alternative to the internets centralized authority.
+Every device running ZentaP2P on the network becomes its own node in the MeshNet.
+In fact, if internet access is unavailable in an emergency, users can stay connected with ZentaP2P.
 
+##### How nodes work on a Mesh Network?
+
+A network node could be any device such as a phone, computer or a router. On a typical network's architecture, the hub and spoke network, these nodes (spokes) are connected next to each other. There are only single connections to other nodes and the backbone of the network is the hub. Therefore, these are considered centralized networks. 
+
+In a mesh network, the individual network nodes are networked with one another via several connections. There are multiple routes to these connections. With its self-healing feature a failure of individual lines or network nodes can be compensated via alternative connection paths. Paths are selected in meshed IP networks via so-called routing protocols such as RIP, OSPF or BGP.
+
+In a fully meshed network, each node is connected to each other. The backbone line looks like a ring and the number of connections required increases exponentially with the number of nodes. This expands the number of connections in a partially meshed network.
+
+n (n-1) / 2 = (n ^ {2} -n) / 2
+
+The concept of meshed networks can be applied to both wired and wireless networks, as well as, the interaction of programs. Mobile ad hoc networks (MANet), which are supported by many consumer devices, are a subset of the meshed networks.
 
 ![zentap2p network](https://user-images.githubusercontent.com/40530024/44751312-2568f380-ab18-11e8-8d46-bb68c606384c.png)
 
